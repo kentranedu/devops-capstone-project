@@ -1,0 +1,21 @@
+Overview: Agile Planning
+
+Prerequisites
+
+Before beginning this lesson, you need to have:
+• A basic understanding of Agile planning and Scrum
+• A GitHub account
+• For managing the Agile Plan and user stories, you can use the GitHub Projects Kanban or if you have an official email account, you can create a trial account on ZenHub and set up a Kanban board.
+
+
+Description
+
+For the DevOps Capstone project, this module will aim at developing an Agile plan to create a RESTful microservice. You will complete this project throughout several sprints using a variety of Agile, cloud-native, and CI/CD tools and technologies.
+
+In this lesson, you will start your project by building an Agile plan for the first sprint. At this point, you are planning and not producing code deliverables, so some development teams call this stage "Sprint 0" or a planning sprint. Your goal is to simulate what an actual Agile development team would do to plan sprints.
+
+You will begin by creating a GitHub repository for the project and adding this repository to the kanban board. You will use this board to build and manage your Agile plan. Next, you will build a user story template in GitHub that you will later use to write well-structured user stories.
+
+Then you will build your product backlog in the kanban board. First, you will add user stories to represent each step needed to build the Customer Accounts microservice. Next, you will sort these stories to prepare for backlog refinement. Sorting will involve moving stories to appropriate pipelines and ordering the stories in each pipeline from highest to lowest priority. After sorting your product backlog, you will refine it to make it sprint-ready. To do so, you will move all remaining unsorted stories into appropriate pipelines, add sufficient detail to each story, and label each story appropriately.
+
+After finishing your product backlog, you will build your sprint plan. This step will involve scheduling sprints, designating estimated story points to stories, assigning several stories to the next sprint, and building your sprint backlog.
